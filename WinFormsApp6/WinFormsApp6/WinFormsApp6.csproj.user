@@ -13,8 +13,5 @@
     <Compile Update="Reservación.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Room %28cuarto%29.cs">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
 </Project>
