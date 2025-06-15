@@ -35,7 +35,6 @@
             button1 = new Button();
             label3 = new Label();
             button2 = new Button();
-            button3 = new Button();
             button4 = new Button();
             button5 = new Button();
             button6 = new Button();
@@ -122,17 +121,6 @@
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
-            // button3
-            // 
-            button3.ForeColor = Color.FromArgb(0, 192, 192);
-            button3.Location = new Point(10, 148);
-            button3.Margin = new Padding(3, 2, 3, 2);
-            button3.Name = "button3";
-            button3.Size = new Size(94, 32);
-            button3.TabIndex = 8;
-            button3.Text = "Room";
-            button3.UseVisualStyleBackColor = true;
-            // 
             // button4
             // 
             button4.Location = new Point(662, 16);
@@ -146,18 +134,19 @@
             // button5
             // 
             button5.ForeColor = Color.FromArgb(0, 192, 192);
-            button5.Location = new Point(10, 214);
+            button5.Location = new Point(10, 143);
             button5.Margin = new Padding(3, 2, 3, 2);
             button5.Name = "button5";
             button5.Size = new Size(94, 32);
             button5.TabIndex = 10;
             button5.Text = "Huésped";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button6
             // 
             button6.ForeColor = Color.FromArgb(0, 192, 192);
-            button6.Location = new Point(10, 277);
+            button6.Location = new Point(10, 207);
             button6.Margin = new Padding(3, 2, 3, 2);
             button6.Name = "button6";
             button6.Size = new Size(94, 30);
@@ -168,13 +157,14 @@
             // button7
             // 
             button7.ForeColor = Color.FromArgb(0, 192, 192);
-            button7.Location = new Point(10, 350);
+            button7.Location = new Point(10, 272);
             button7.Margin = new Padding(3, 2, 3, 2);
             button7.Name = "button7";
             button7.Size = new Size(94, 31);
             button7.TabIndex = 12;
             button7.Text = "Factura";
             button7.UseVisualStyleBackColor = true;
+            button7.Click += button7_Click;
             // 
             // comboBox1
             // 
@@ -209,7 +199,6 @@
             Controls.Add(button6);
             Controls.Add(button5);
             Controls.Add(button4);
-            Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(label3);
             Controls.Add(button1);
@@ -236,7 +225,6 @@
         private Button button1;
         private Label label3;
         private Button button2;
-        private Button button3;
         private Button button4;
         private Button button5;
         private Button button6;
