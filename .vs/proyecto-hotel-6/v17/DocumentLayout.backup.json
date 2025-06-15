@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\herna\\source\\repos\\proyecto-hotel-6\\",
+  "WorkspaceRootPath": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-6\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -26,6 +26,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
