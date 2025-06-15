@@ -29,70 +29,74 @@
         private void InitializeComponent()
         {
             label1 = new Label();
-            Reportes = new ListBox();
-            BtnDiario = new Button();
-            BtnSemanal = new Button();
-            BtnMensual = new Button();
+            tabControl1 = new TabControl();
+            tabPage1 = new TabPage();
+            tabPage2 = new TabPage();
+            tabPage3 = new TabPage();
+            tabControl1.SuspendLayout();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Noto Serif HK Black", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(344, 33);
+            label1.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(410, 28);
             label1.Name = "label1";
-            label1.Size = new Size(92, 27);
+            label1.Size = new Size(107, 29);
             label1.TabIndex = 0;
             label1.Text = "Reporte";
             // 
-            // Reportes
+            // tabControl1
             // 
-            Reportes.FormattingEnabled = true;
-            Reportes.ItemHeight = 15;
-            Reportes.Location = new Point(78, 123);
-            Reportes.Name = "Reportes";
-            Reportes.Size = new Size(626, 274);
-            Reportes.TabIndex = 1;
+            tabControl1.Controls.Add(tabPage1);
+            tabControl1.Controls.Add(tabPage2);
+            tabControl1.Controls.Add(tabPage3);
+            tabControl1.Location = new Point(46, 76);
+            tabControl1.Name = "tabControl1";
+            tabControl1.SelectedIndex = 0;
+            tabControl1.Size = new Size(811, 480);
+            tabControl1.TabIndex = 5;
             // 
-            // BtnDiario
+            // tabPage1
             // 
-            BtnDiario.Location = new Point(206, 87);
-            BtnDiario.Name = "BtnDiario";
-            BtnDiario.Size = new Size(75, 23);
-            BtnDiario.TabIndex = 2;
-            BtnDiario.Text = "Diario";
-            BtnDiario.UseVisualStyleBackColor = true;
+            tabPage1.Location = new Point(4, 29);
+            tabPage1.Name = "tabPage1";
+            tabPage1.Padding = new Padding(3);
+            tabPage1.Size = new Size(803, 447);
+            tabPage1.TabIndex = 0;
+            tabPage1.Text = "Diario";
+            tabPage1.UseVisualStyleBackColor = true;
             // 
-            // BtnSemanal
+            // tabPage2
             // 
-            BtnSemanal.Location = new Point(332, 87);
-            BtnSemanal.Name = "BtnSemanal";
-            BtnSemanal.Size = new Size(75, 23);
-            BtnSemanal.TabIndex = 3;
-            BtnSemanal.Text = "Semanal";
-            BtnSemanal.UseVisualStyleBackColor = true;
+            tabPage2.Location = new Point(4, 29);
+            tabPage2.Name = "tabPage2";
+            tabPage2.Padding = new Padding(3);
+            tabPage2.Size = new Size(803, 447);
+            tabPage2.TabIndex = 1;
+            tabPage2.Text = "Semanal";
+            tabPage2.UseVisualStyleBackColor = true;
             // 
-            // BtnMensual
+            // tabPage3
             // 
-            BtnMensual.Location = new Point(460, 87);
-            BtnMensual.Name = "BtnMensual";
-            BtnMensual.Size = new Size(75, 23);
-            BtnMensual.TabIndex = 4;
-            BtnMensual.Text = "Mensual";
-            BtnMensual.UseVisualStyleBackColor = true;
+            tabPage3.Location = new Point(4, 29);
+            tabPage3.Name = "tabPage3";
+            tabPage3.Size = new Size(803, 447);
+            tabPage3.TabIndex = 2;
+            tabPage3.Text = "Mensual";
+            tabPage3.UseVisualStyleBackColor = true;
             // 
             // Form3
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(BtnMensual);
-            Controls.Add(BtnSemanal);
-            Controls.Add(BtnDiario);
-            Controls.Add(Reportes);
+            ClientSize = new Size(914, 600);
+            Controls.Add(tabControl1);
             Controls.Add(label1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form3";
             Text = "Form3";
+            tabControl1.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
         }
@@ -100,9 +104,9 @@
         #endregion
 
         private Label label1;
-        private ListBox Reportes;
-        private Button BtnDiario;
-        private Button BtnSemanal;
-        private Button BtnMensual;
+        private TabControl tabControl1;
+        private TabPage tabPage1;
+        private TabPage tabPage2;
+        private TabPage tabPage3;
     }
 }

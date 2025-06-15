@@ -13,10 +13,10 @@ using System.Runtime.Serialization;
 
 namespace WinFormsApp6
 {
-    public partial class ReservacionClientes : Form
+    public partial class Creaciondeperfil : Form
     {
         Cliente cliente;
-        public ReservacionClientes()
+        public Creaciondeperfil()
         {
             InitializeComponent();
         }
@@ -47,6 +47,11 @@ namespace WinFormsApp6
         }
 
         private void BtnMostrar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ReservacionClientes_Load(object sender, EventArgs e)
         {
 
         }

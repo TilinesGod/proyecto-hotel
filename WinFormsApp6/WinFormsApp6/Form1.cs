@@ -95,11 +95,23 @@ namespace WinFormsApp6
 
         private void button5_Click(object sender, EventArgs e)
         {
-            ReservacionClientes abrir = new ReservacionClientes();
+            Creaciondeperfil abrir = new Creaciondeperfil();
             abrir.Show();
         }
 
         private void button7_Click(object sender, EventArgs e)
+        {
+            Form3 reportes = new Form3();
+            reportes.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form4 politica = new Form4();//invoca a la seccion de politicas
+            politica.Show();
+        }
+
+        private void Form1_Load_1(object sender, EventArgs e)
         {
 
         }
