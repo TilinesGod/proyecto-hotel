@@ -63,6 +63,86 @@ namespace WinFormsApp6.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _Maito___typical_plate_from_the_Amazon {
+            get {
+                object obj = ResourceManager.GetObject("_Maito_, typical plate from the Amazon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _Maito___typical_plate_from_the_Amazon1 {
+            get {
+                object obj = ResourceManager.GetObject("_Maito_, typical plate from the Amazon1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Chocolate_Covered_Strawberries___Cooking_Classy {
+            get {
+                object obj = ResourceManager.GetObject("Chocolate Covered Strawberries - Cooking Classy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap descargar {
+            get {
+                object obj = ResourceManager.GetObject("descargar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap descargar__1_ {
+            get {
+                object obj = ResourceManager.GetObject("descargar (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap descargar__2_ {
+            get {
+                object obj = ResourceManager.GetObject("descargar (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap drinks_42 {
+            get {
+                object obj = ResourceManager.GetObject("drinks 42", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap drinks_421 {
+            get {
+                object obj = ResourceManager.GetObject("drinks 421", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Hotel_Booking {
             get {
                 object obj = ResourceManager.GetObject("Hotel-Booking", resourceCulture);
@@ -86,6 +166,36 @@ namespace WinFormsApp6.Properties {
         internal static System.Drawing.Bitmap Instagram_Logo_2048x1152 {
             get {
                 object obj = ResourceManager.GetObject("Instagram-Logo-2048x1152", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap juanes {
+            get {
+                object obj = ResourceManager.GetObject("juanes", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap juanes1 {
+            get {
+                object obj = ResourceManager.GetObject("juanes1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap juanes2 {
+            get {
+                object obj = ResourceManager.GetObject("juanes2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\",
+  "WorkspaceRootPath": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|c:\\users\\leome\\source\\repos\\proyecto-hotel-5\\winformsapp6\\winformsapp6\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|c:\\users\\leome\\source\\repos\\proyecto-hotel-7\\winformsapp6\\winformsapp6\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|solutionrelative:winformsapp6\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\winformsapp6\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|solutionrelative:winformsapp6\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\winformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|solutionrelative:winformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|c:\\users\\leome\\source\\repos\\proyecto-hotel-5\\winformsapp6\\winformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|solutionrelative:winformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\winformsapp6\\reservaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\winformsapp6\\reservaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|solutionrelative:winformsapp6\\reservaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|c:\\users\\leome\\source\\repos\\proyecto-hotel-5\\winformsapp6\\winformsapp6\\reservaci\u00F3n.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|c:\\users\\leome\\source\\repos\\proyecto-hotel-7\\winformsapp6\\winformsapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|solutionrelative:winformsapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\winformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|solutionrelative:winformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|c:\\users\\leome\\source\\repos\\proyecto-hotel-7\\winformsapp6\\winformsapp6\\reservaci\u00F3n.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|solutionrelative:winformsapp6\\reservaci\u00F3n.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\winformsapp6\\politica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|solutionrelative:winformsapp6\\politica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|c:\\users\\leome\\source\\repos\\proyecto-hotel-7\\winformsapp6\\winformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|solutionrelative:winformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\winformsapp6\\nueva politica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|solutionrelative:winformsapp6\\nueva politica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|c:\\users\\leome\\source\\repos\\proyecto-hotel-5\\winformsapp6\\winformsapp6\\reservaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|c:\\users\\leome\\source\\repos\\proyecto-hotel-7\\winformsapp6\\winformsapp6\\reservaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41164DAE-559A-4CF6-99ED-7C48A03E6A43}|WinFormsApp6\\WinFormsApp6.csproj|solutionrelative:winformsapp6\\reservaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,40 +66,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form3.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Form3.cs",
-              "RelativeDocumentMoniker": "WinFormsApp6\\Form3.cs",
-              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Form3.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormsApp6\\Form3.cs [Dise\u00F1o]",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Program.cs",
+              "RelativeToolTip": "WinFormsApp6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T03:38:38.591Z",
+              "WhenOpened": "2025-06-15T19:42:54.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Form4.cs",
+              "RelativeDocumentMoniker": "WinFormsApp6\\Form4.cs",
+              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp6\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:04:41.99Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Reservaci\u00F3n.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Reservaci\u00F3n.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Reservaci\u00F3n.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp6\\Reservaci\u00F3n.Designer.cs",
-              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Reservaci\u00F3n.Designer.cs",
+              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Reservaci\u00F3n.Designer.cs",
               "RelativeToolTip": "WinFormsApp6\\Reservaci\u00F3n.Designer.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAASwNAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:33:58.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T01:33:58.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp6\\Form1.cs",
-              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Form1.cs",
+              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Form1.cs",
               "RelativeToolTip": "WinFormsApp6\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T01:07:31.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reservaci\u00F3n.cs",
+              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Reservaci\u00F3n.cs",
+              "RelativeDocumentMoniker": "WinFormsApp6\\Reservaci\u00F3n.cs",
+              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Reservaci\u00F3n.cs",
+              "RelativeToolTip": "WinFormsApp6\\Reservaci\u00F3n.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2019-01-01T00:00:00Z",
               "EditorCaption": ""
             },
             {
@@ -108,64 +132,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Nueva politica.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Nueva politica.cs",
-              "RelativeDocumentMoniker": "WinFormsApp6\\Nueva politica.cs",
-              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Nueva politica.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormsApp6\\Nueva politica.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:51:29.166Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "politica.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\politica.cs",
-              "RelativeDocumentMoniker": "WinFormsApp6\\politica.cs",
-              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\politica.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormsApp6\\politica.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:50:09.475Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Reservaci\u00F3n.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Reservaci\u00F3n.cs",
-              "RelativeDocumentMoniker": "WinFormsApp6\\Reservaci\u00F3n.cs",
-              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Reservaci\u00F3n.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormsApp6\\Reservaci\u00F3n.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:24:39.721Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Form3.cs",
+              "RelativeDocumentMoniker": "WinFormsApp6\\Form3.cs",
+              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp6\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T03:38:38.591Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp6\\Form1.cs",
-              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinFormsApp6\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:07:09.66Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-06-15T01:07:09.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Reservaci\u00F3n.cs",
-              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Reservaci\u00F3n.cs",
+              "DocumentIndex": 2,
+              "Title": "Reservaci\u00F3n.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Reservaci\u00F3n.cs",
               "RelativeDocumentMoniker": "WinFormsApp6\\Reservaci\u00F3n.cs",
-              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-5\\WinFormsApp6\\WinFormsApp6\\Reservaci\u00F3n.cs",
-              "RelativeToolTip": "WinFormsApp6\\Reservaci\u00F3n.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwAIAAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\leome\\source\\repos\\proyecto-hotel-7\\WinFormsApp6\\WinFormsApp6\\Reservaci\u00F3n.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp6\\Reservaci\u00F3n.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2019-01-01T00:00:00Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T01:24:39.721Z"
             }
           ]
         }
